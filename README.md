@@ -15,9 +15,10 @@ In the code folder, there are segmentation part and GUI part
 
 ### Installing
 
-* Download all the files in OneDrive or GitHub 
+* Download the folder in OneDrive 
 * The input spectral images (in tif format) should put into path:'\DataSets\OriginalDataSet\Set_1_images'
 * The input mask (in tif format) should put into path:'\DataSets\OriginalDataSet\Set_1_masks'
+* Put DataSets folder inside of the folder which is downloaded from OneDrive
 
 ### Environment setting
 
