@@ -1,6 +1,6 @@
 # Spectral Image Analysis 
 
-This is file is to clarify the usage of our codes & files in Industrial Project Course.
+This file is to clarify the usage of our codes & files in Industrial Project Course.
 
 ## Description
 
@@ -118,7 +118,7 @@ python main_gui.py
 - AuxVariables
     -  This folder contains other auxiliary variables generated while running "mainTrainAndTest".
 - TrainingPlots
-    -  This folder contains some 
+    -  This folder contains some graph generated during the training 
     
 ### Segmentation part 2
 
