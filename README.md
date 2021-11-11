@@ -154,24 +154,25 @@ python main_gui.py
 ### Requirement file
 
 - requirements.txt
-This requirements file includes all the  **python packages are required to run the project**graphs and plots generated after training the UNet segmentation models.
+   -This requirements file includes all the  **python packages are required to run the project**graphs and plots generated after training the UNet segmentation models.
 
 ### Data
 
 - DataSets
-The input data needed for segmentation in this folder.
+   -The input data needed for segmentation in this folder.
 
 ### Results
 
 - SegmentationResults
-The segmentation results saved in this folder
+   -The segmentation results saved in this folder
 
 ### GUI part
 
 - UI
-In this folder, there are several file about layout of GUI
+   -In this folder, there are several file about layout of GUI
+
 - main_gui.py
-This is main python file to run the GUI
+   -This is main python file to run the GUI
 
 ### User Guide
 <img width="763" alt="user_guide" src="https://user-images.githubusercontent.com/80296065/141322987-cced013e-7dca-480c-b41c-100c8ec0b0ad.png">
