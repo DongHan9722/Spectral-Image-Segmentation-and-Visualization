@@ -169,7 +169,7 @@ python main_gui.py
 ### GUI part
 
 - UI
-   - In this folder, there are several file about layout of GUI
+   - In this folder, there are several files about layout of GUI
 
 - main_gui.py
    - This is main python file to run the GUI
