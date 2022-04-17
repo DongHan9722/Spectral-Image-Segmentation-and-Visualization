@@ -177,6 +177,9 @@ python main_gui.py
 ### User Guide
 <img width="763" alt="user_guide" src="https://user-images.githubusercontent.com/80296065/141322987-cced013e-7dca-480c-b41c-100c8ec0b0ad.png">
 
+### UI Sample
+![UI](https://user-images.githubusercontent.com/80296065/163733560-be8e680d-4f26-41c7-b0a4-43cf865c30c8.png)
+
 
 ## Authors
 
