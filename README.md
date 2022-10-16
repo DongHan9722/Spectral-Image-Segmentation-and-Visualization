@@ -1,5 +1,11 @@
 # Spectral Image Analysis 
 
+## Objective
+
+* Implement different deep learning models for segementation on human placenta tissue spectral image dataset from hospital.
+* Design UI for showing the segmented results with original rendered color images and implement basic image processing functions. 
+
+
 This file is to clarify the usage of our codes & files in Industrial Project Course.
 
 ## Description
